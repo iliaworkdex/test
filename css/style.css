@@ -23,7 +23,7 @@ ul{
     list-style: none;
 }
 header{
-    background-image: url(image/gamevalpier.jpg);
+    background-image: url(gamevalpier.jpg);
     width: 100%;
     height: 100vh;
     background-size: cover;
@@ -253,3 +253,4 @@ footer h3{
     text-align: center;
 
 }
+
